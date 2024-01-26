@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(5, 4, 36);
+}
+
+
+.Titulo{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    padding: 5px 5px;
+    
+
+}
+
+
+.fondo{
+    width: 600px;
+    margin: auto;
+    margin-top: 10px;
+    color: white;
+}
+
+.title1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+
+
+.simbolos .material-symbols-outlined:last-child {
+    float: right;
+    
+}
+
+
+
+
